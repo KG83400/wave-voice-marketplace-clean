@@ -7,3 +7,4 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+//test de synchro avec Github
